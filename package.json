@@ -7,9 +7,7 @@
     "start": "serve",
     "build": "echo This is a static template, there is no bundler or bundling involved!"
   },
-  "dependencies": {
-    "firebase": "9.9.1"
-  }
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codesandbox-app/static-template.git"
@@ -27,5 +25,8 @@
   "homepage": "https://github.com/codesandbox-app/static-template#readme",
   "devDependencies": {
     "serve": "^11.2.0"
+  },
+  "dependencies": {
+    "firebase": "9.9.1"
   }
 }
